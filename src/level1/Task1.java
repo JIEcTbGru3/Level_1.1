@@ -6,9 +6,5 @@ public class Task1 {
         String captainName = "Nikita";
 
         System.out.println("Captain " + captainName + " is on duty!" );
-
-
-
-
     }
 }
